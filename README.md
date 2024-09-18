@@ -1,4 +1,4 @@
-<h1 align="center">Hi ðŸ‘‹, I'm DARK ARIYAN</h1>
+<h1 align="center">Hi Wecome‹, I'm DARK ARIYAN</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fhacker-gif-hacker-discover-share-gifs--926052742102107815%2F&psig=AOvVaw3qDJUFM6SHRtZGzo5KWX1z&ust=1726760952088000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMj_jf7rzIgDFQAAAAAdAAAAABAE">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ariyankhan5630&label=Profile%20views&color=0e75b6&style=flat" alt="ariyankhan5630" /> </p>
